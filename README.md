@@ -1,5 +1,5 @@
 # Pokedex
-CS50x - Harvard course - Android Track 1
+CS50x - Harvard course - Android Track #1
 
 This is an Android exercise in this edX course: [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science).
 
